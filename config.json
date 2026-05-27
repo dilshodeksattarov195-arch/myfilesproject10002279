@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfonnect",
+        "uuid": 13715022,
+        "checksum": "5tgttb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
